@@ -1,0 +1,12 @@
+{
+  "name": "tarea3crud",
+  "version": "1.0.0",
+  "description": "CRUD de tareas para Programacion III",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
